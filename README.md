@@ -1,4 +1,10 @@
-# About this Repo
+# THIS REPOSITORY IS DEPRECATED
+
+This repository has been deprecated in favor of official ARM version of [Tini](https://github.com/krallin/tini)
+* Use  __tini-armhf__ for ARMv7 (RPi2)
+* Use  __tini-arm64__ for ARMv8 (RPi3)
+
+## About this repository
 
 This is a forked [krallin's Tini repository](https://github.com/krallin/tini) where the aim is compile Tini to work in RPi2 (ARMv7).
 
